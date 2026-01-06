@@ -39,3 +39,4 @@ This is an end-to-end Scikit-Learn pipeline that handles:
 1. Install requirements: `pip install -r requirements.txt`
 2. Run the app: `streamlit run app.py`
 >>>>>>> e5850d1054433cd8ac31becffeee4457573a3b70
+>>>>>>> to run the app in the browser, you can navigate to https://joseph-healthcare-noshow-predictor-houcsnrnbm2hmhrwwdhwpc.streamlit.app/
