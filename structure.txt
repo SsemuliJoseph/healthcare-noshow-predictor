@@ -1,0 +1,6 @@
+healthcare-noshow-predictor/
+├── app.py             # The Web App code
+├── model_trainer.py   # The script that trains and saves the model
+├── best_model.joblib  # The "saved brain" of your AI
+├── requirements.txt   # List of libraries for others to install
+└── README.md          # The "Face" of your project
